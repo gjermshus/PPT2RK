@@ -1,0 +1,16 @@
+c:\users\andersg.onestop\documents\visual studio 2013\Projects\PPT2RK-Client\PPT2RK-Client\obj\Debug\PPT2RK-Client.csprojResolveAssemblyReference.cache
+c:\users\andersg.onestop\documents\visual studio 2013\Projects\PPT2RK-Client\PPT2RK-Client\bin\Debug\PPT2RK-Client.dll.config
+c:\users\andersg.onestop\documents\visual studio 2013\Projects\PPT2RK-Client\PPT2RK-Client\bin\Debug\PPT2RK-Client.dll
+c:\users\andersg.onestop\documents\visual studio 2013\Projects\PPT2RK-Client\PPT2RK-Client\bin\Debug\PPT2RK-Client.pdb
+c:\users\andersg.onestop\documents\visual studio 2013\Projects\PPT2RK-Client\PPT2RK-Client\bin\Debug\HealthGraphNet.dll
+c:\users\andersg.onestop\documents\visual studio 2013\Projects\PPT2RK-Client\PPT2RK-Client\bin\Debug\Newtonsoft.Json.dll
+c:\users\andersg.onestop\documents\visual studio 2013\Projects\PPT2RK-Client\PPT2RK-Client\bin\Debug\PolarPersonalTrainerLib.dll
+c:\users\andersg.onestop\documents\visual studio 2013\Projects\PPT2RK-Client\PPT2RK-Client\bin\Debug\RestSharp.dll
+c:\users\andersg.onestop\documents\visual studio 2013\Projects\PPT2RK-Client\PPT2RK-Client\bin\Debug\HtmlAgilityPack.dll
+c:\users\andersg.onestop\documents\visual studio 2013\Projects\PPT2RK-Client\PPT2RK-Client\bin\Debug\Newtonsoft.Json.xml
+c:\users\andersg.onestop\documents\visual studio 2013\Projects\PPT2RK-Client\PPT2RK-Client\bin\Debug\PolarPersonalTrainerLib.pdb
+c:\users\andersg.onestop\documents\visual studio 2013\Projects\PPT2RK-Client\PPT2RK-Client\bin\Debug\RestSharp.xml
+c:\users\andersg.onestop\documents\visual studio 2013\Projects\PPT2RK-Client\PPT2RK-Client\bin\Debug\HtmlAgilityPack.pdb
+c:\users\andersg.onestop\documents\visual studio 2013\Projects\PPT2RK-Client\PPT2RK-Client\bin\Debug\HtmlAgilityPack.xml
+c:\users\andersg.onestop\documents\visual studio 2013\Projects\PPT2RK-Client\PPT2RK-Client\obj\Debug\PPT2RK-Client.dll
+c:\users\andersg.onestop\documents\visual studio 2013\Projects\PPT2RK-Client\PPT2RK-Client\obj\Debug\PPT2RK-Client.pdb
